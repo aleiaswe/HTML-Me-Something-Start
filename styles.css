@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+
+body { 
+    background-color: rgb(102, 18, 105);
+    margin-right: 8px;
+    display: block;
+    font-weight: bold;
+    color: gold;
+}
+
+h1 {
+    color: red;
+}
+
+#mainHeading {
+    color: red;
+    background-color: lightblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 300px;
+    padding-left: 300px;
+    border: 1px solid black;
+}
+
+.funParagraph {
+    color: green;
+    font-weight: bold;
+}
+
+h2 { 
+    color: red;
+}
+h3 { 
+    color: lightblue;
+}
+
+a { 
+    color: lightblue;
+}
